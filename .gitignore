@@ -1,0 +1,7 @@
+*.tar.xz
+src/
+pkg/
+
+# dep
+dep-linux-amd64
+dep/LICENSE
