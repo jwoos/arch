@@ -1,2 +1,5 @@
-# arch
-Arch Linux Packages (AUR)
+# Arch Linux Packages
+
+## Dep
+Description: Golang Depdendency Manager (experimental)
+URL: https://github.com/golang/dep
